@@ -6041,3 +6041,8 @@
 
 #华文电视
 (^|\.)ocnttv\.com$
+
+
+#my
+(^|\.)deribit\.com
+(^|\.)debank\.com
