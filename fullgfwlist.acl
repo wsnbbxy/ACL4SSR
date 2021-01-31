@@ -6044,6 +6044,10 @@
 
 
 #my
-(^|\.)deribit\.com
-(^|\.)debank\.com
-(^|\.)apkmirror\.com
+(^|\.)deribit\.com$
+(^|\.)debank\.com$
+(^|\.)apkmirror\.com$
+(^|\.)etherscan\.io$
+(^|\.)binance\.com$
+(^|\.)binance\.cloud$
+(^|\.)bnbstatic.com$
